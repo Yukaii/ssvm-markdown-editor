@@ -21,3 +21,7 @@ pkg
 # local computer
 .env
 .DS_Store
+
+node/public/*
+node/.cache
+!/node/public/.gitkeep
